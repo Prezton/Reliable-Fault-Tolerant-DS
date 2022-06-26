@@ -6,4 +6,6 @@ Components include:
 2. GFD: a global fault detector
 3. LFD: a local fault detector
 4. Nodes
-5. And more...
+5. Server
+6. Client
+7. And more...
